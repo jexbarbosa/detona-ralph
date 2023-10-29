@@ -81,6 +81,7 @@ const state = {
   }
   
   function init(){
+    randomSquare();
     addListinerHitbox();
     retry();
   }

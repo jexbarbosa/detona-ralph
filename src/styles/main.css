@@ -10,7 +10,7 @@
   
   
   .container{
-    background-image: url('../images/wall.png');
+    background-image: url('https://jexbarbosa.github.io/detona-ralph/src/images/wall.png');
     height: 100vh;
   }
   #menu{
@@ -60,7 +60,7 @@
   }
   
   .enemy{
-    background-image: url('../images/ralph.png');
+    background-image: url('https://jexbarbosa.github.io/detona-ralph/src/images/ralph.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
